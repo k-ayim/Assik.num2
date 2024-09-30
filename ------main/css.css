@@ -1,0 +1,57 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgb(91, 34, 91) 30%, rgba(255,255,255,1) 67%, rgba(171,184,225,1) 74%, rgba(148,187,233,1) 100%);
+
+    background-color: rgb(255, 255, 255);
+    background-size: cover; 
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(128,114,230,1) 69%, rgba(183,205,255,1) 100%);
+    padding: 10px;
+    text-align: center;
+}
+nav {
+    text-align: center; 
+    margin-top: 20px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    display: inline; 
+    margin-right: 10px; 
+}
+a {
+    text-decoration: none; 
+    color:rgb(255, 255, 255);
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+as, gg {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+    font-weight: 600px;
+}
+fg, gf {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+fg {
+    margin: 20px;
+}
+form {
+    margin-top: 20px;
+}
+section, footer {
+    text-align: center;
+}
+
